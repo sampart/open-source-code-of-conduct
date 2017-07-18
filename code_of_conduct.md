@@ -1,6 +1,7 @@
 _This code-of-conduct is common to the following projects:_
 * _[Pagerfanta](https://github.com/whiteoctober/Pagerfanta)_
 * _[Pagerfanta Bundle](https://github.com/whiteoctober/WhiteOctoberPagerfantaBundle)_
+* _[SwiftMailerDBBundle](https://github.com/whiteoctober/WhiteOctoberSwiftMailerDBBundle)_
 
 # Contributor Covenant Code of Conduct
 
